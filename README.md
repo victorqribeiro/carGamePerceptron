@@ -1,7 +1,7 @@
 
 # Excuse me, would you let my Neural Network drive?
 
-A Neural Network experiment envolving a JavaScript game: can a perceptron drive a car?
+A Neural Network experiment involving a JavaScript game: can a perceptron drive a car?
 
 [![Scrap](http://img.youtube.com/vi/g0WV3qWcVuA/0.jpg)](http://www.youtube.com/watch?v=g0WV3qWcVuA)
 
