@@ -15,6 +15,8 @@ So I gave the game code a little brushing, wrote some more code to capture the d
 
 A [Neuroevolution](https://en.wikipedia.org/wiki/Neuroevolution) you say? Yes, I thought about that. I have a fully conected multilayer perceptron, that I'm about to realease, So I'm saving the ideia of evolving a neural net with genetic algorithm for that.
 
+Quick reminder that the game is not fair. Sometimes two cars comes in parallel with each other, so not even a human could beat it.
+
 # Questions?
 
 If you have any questions about the code or how I implemented it, or even how I got the data to feed the neural network (features), please feel free to contact me. (I left some comments on the code)
